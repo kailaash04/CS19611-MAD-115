@@ -1,0 +1,11 @@
+<resources>
+    <style name="Theme.Clim8" parent="Theme.Material3.DayNight">
+        <!-- Primary branding color. -->
+        <item name="colorPrimary">@color/purple_primary</item>
+        <item name="colorOnPrimary">@color/text_primary</item>
+        <item name="colorSecondary">@color/purple_primary</item>
+        <item name="android:colorBackground">@color/background_dark</item>
+        <item name="android:textColorPrimary">@color/text_primary</item>
+        <item name="android:textColorSecondary">@color/text_secondary</item>
+    </style>
+</resources>
